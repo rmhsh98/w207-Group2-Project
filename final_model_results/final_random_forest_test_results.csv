@@ -1,0 +1,2 @@
+model,training_data,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc
+Final Random Forest,train + validation,0.6928104575163399,0.6878267363704257,0.7073732718894009,0.6974630821658463,0.764884721675305
